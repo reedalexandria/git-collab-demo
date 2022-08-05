@@ -9,3 +9,5 @@ editor: visual
 Hi Alex! We're collaborating now.
 
 Last day of our first class!
+
+Yay! Finish strong :)
